@@ -1,0 +1,19 @@
+Prints af 2 uger, hver anden onsdag er der deadline
+
+
+Sprint 2:
+Lav cloud/repository service.
+UI skal kun følge x aksen, skal ikke være child til arrowGuy
+Character UI på højre grip,
+Lav income show på flere UIs (shop / spawnUI / CharUI)
+Damage og damage UI på enemies
+bugs ETC
+
+
+Fælles tasks:
+
+Levels: Fra level 1-10 lav abilities, ULT, se Ability-tree dokumentet.
+Slet alle gethitanimation og lav attack på animationEvent
+Find spil navn og company (Lane Crusaders & 
+Lave model på højre controller til at passe med skills
+Ny bow
